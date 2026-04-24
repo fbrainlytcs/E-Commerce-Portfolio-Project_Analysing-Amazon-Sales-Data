@@ -8,6 +8,8 @@ _In this Portfolio Project I would like to demonstrate my authentic analytical p
 
 <img width="1590" height="955" alt="output" src="https://github.com/user-attachments/assets/cf02b738-c239-40a7-b5d4-2cf5280c5a99" />
 
+<img width="950" height="660" alt="output2" src="https://github.com/user-attachments/assets/fed733ba-42bc-4eba-aa65-f2d9f528f4c4" />
+
 The business shows robust health with __a total revenue of $91.83 Million__ within the dataset timeframe and a highly diversified product portfolio.<br><br>
 
 ## Key Insights & Strategic Pillars:
