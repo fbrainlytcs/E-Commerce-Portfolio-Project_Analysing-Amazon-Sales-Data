@@ -38,7 +38,7 @@ _Shipping Costs_: We maintain a consistent average shipping cost of $7.38 – $7
 __4. Visual Insights__
 _Monthly Sales Trend_: the sales show a consistent trajectory with manageable fluctuations, indicating a stable demand cycle.
 
-_Order Status_: Over 94% of the orders are successfully delivered or processed, showcasing a reliable supply chain.
+_Order Status_: Over 94% of the orders are successfully delivered or processed, showcasing a reliable supply chain.<br><br>
 
 __Strategic Recommendations__ for Sustainability:
 _US Market Retention_: Implement a loyalty program focused on high-AOV customers in the US to protect the primary revenue stream.
