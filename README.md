@@ -6,7 +6,7 @@ _In this Portfolio Project I would like to demonstrate my authentic analytical p
 
 # Conclusion - Insights - Recommendation
 
-<img width="1590" height="955" alt="output" src="https://github.com/user-attachments/assets/cf02b738-c239-40a7-b5d4-2cf5280c5a99" />
+<img width="1589" height="955" alt="output" src="https://github.com/user-attachments/assets/ef9df055-4df4-4012-900f-e87765a131b1" />
 
 <img width="950" height="655" alt="output2" src="https://github.com/user-attachments/assets/220afd9a-39b9-41ab-82d8-4b297e4a689c" />
 
