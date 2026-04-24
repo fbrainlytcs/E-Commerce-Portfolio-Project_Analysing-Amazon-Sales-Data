@@ -28,14 +28,14 @@ _Key Partners_: Brands like CoreTech and KiddoFun are our primary revenue driver
 
 Recommendation: Given the slim margin between the top 6 categories, they should consider "Bundle Strategies" (e.g., Electronics + Sports) to increase the basket size further.
 
-__3. Operational Efficiency & Logistics__
-Our logistics operations appear stable, but there is room for optimization in order fulfillment.
+__3. Operational Efficiency & Logistics__<br>
+The logistics operations appear stable, but there is room for optimization in order fulfillment.
 
 _Cancellation Rate_: Currently stands at 3.03%. While not alarming, reducing this to under 2% through better inventory synchronization could save approximately $1M in lost potential revenue.
 
 _Shipping Costs_: they maintain a consistent average shipping cost of $7.38 – $7.44 across all categories. This predictability is a strength for financial forecasting.
 
-__4. Visual Insights__
+__4. Visual Insights__<br>
 _Monthly Sales Trend_: the sales show a consistent trajectory with manageable fluctuations, indicating a stable demand cycle.
 
 _Order Status_: Over 94% of the orders are successfully delivered or processed, showcasing a reliable supply chain.<br><br>
