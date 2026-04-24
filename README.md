@@ -26,14 +26,14 @@ _Top Categories_: Electronics ($15.58M) and Sports & Outdoors ($15.35M) lead the
 
 _Key Partners_: Brands like CoreTech and KiddoFun are our primary revenue drivers, each contributing over $9.3M.
 
-Recommendation: Given the slim margin between the top 6 categories, we should consider "Bundle Strategies" (e.g., Electronics + Sports) to increase the basket size further.
+Recommendation: Given the slim margin between the top 6 categories, they should consider "Bundle Strategies" (e.g., Electronics + Sports) to increase the basket size further.
 
 __3. Operational Efficiency & Logistics__
 Our logistics operations appear stable, but there is room for optimization in order fulfillment.
 
 _Cancellation Rate_: Currently stands at 3.03%. While not alarming, reducing this to under 2% through better inventory synchronization could save approximately $1M in lost potential revenue.
 
-_Shipping Costs_: We maintain a consistent average shipping cost of $7.38 – $7.44 across all categories. This predictability is a strength for financial forecasting.
+_Shipping Costs_: they maintain a consistent average shipping cost of $7.38 – $7.44 across all categories. This predictability is a strength for financial forecasting.
 
 __4. Visual Insights__
 _Monthly Sales Trend_: the sales show a consistent trajectory with manageable fluctuations, indicating a stable demand cycle.
@@ -43,7 +43,7 @@ _Order Status_: Over 94% of the orders are successfully delivered or processed, 
 __Strategic Recommendations__ for Sustainability:
 _US Market Retention_: Implement a loyalty program focused on high-AOV customers in the US to protect the primary revenue stream.
 
-_Emerging Market Expansion_: Increase marketing spend in India and Canada, where we already have a foothold but significant untapped potential.
+_Emerging Market Expansion_: Increase marketing spend in India and Canada, where they already have a foothold but significant untapped potential.
 
 _Diversified Logistics_: Evaluate why Electronics has slightly higher shipping costs. Small optimizations in packaging for this category could yield significant annual savings.
 
