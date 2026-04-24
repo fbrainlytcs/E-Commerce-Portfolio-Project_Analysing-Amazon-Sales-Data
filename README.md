@@ -41,10 +41,10 @@ _Monthly Sales Trend_: the sales show a consistent trajectory with manageable fl
 _Order Status_: Over 94% of the orders are successfully delivered or processed, showcasing a reliable supply chain.<br><br>
 
 ## Strategic Recommendations:
-_US Market Retention_: Implement a loyalty program focused on high-AOV customers in the US to protect the primary revenue stream.
+-_US Market Retention_: Implement a loyalty program focused on high-AOV customers in the US to protect the primary revenue stream.
 
-_Emerging Market Expansion_: Increase marketing spend in India and Canada, where they already have a foothold but significant untapped potential.
+-_Emerging Market Expansion_: Increase marketing spend in India and Canada, where they already have a foothold but significant untapped potential.
 
-_Diversified Logistics_: Evaluate why Electronics has slightly higher shipping costs. Small optimizations in packaging for this category could yield significant annual savings.
+-_Diversified Logistics_: Evaluate why Electronics has slightly higher shipping costs. Small optimizations in packaging for this category could yield significant annual savings.
 
-_Discount Optimization_: The data shows that high discounts do not always correlate linearly with massive volume spikes. I recommend a "Value-Based Pricing" model rather than heavy discounting to preserve margins.
+-_Discount Optimization_: The data shows that high discounts do not always correlate linearly with massive volume spikes. I recommend a "Value-Based Pricing" model rather than heavy discounting to preserve margins.
