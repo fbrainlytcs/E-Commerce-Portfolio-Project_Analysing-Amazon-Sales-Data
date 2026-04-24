@@ -10,7 +10,7 @@ _In this Portfolio Project I would like to demonstrate my authentic analytical p
 
 The business shows robust health with __a total revenue of $91.83 Million__ within the dataset timeframe and a highly diversified product portfolio.<br><br>
 
-Below are the __key insights__ and __strategic pillars__:
+## Key Insights & Strategic Pillars:
 
 __1. Financial Performance & Market Reach__
 The revenue is anchored by the United States, which contributes $64.3M (approx. 70%) of total sales. India follows as a secondary but significant growth market.
@@ -40,7 +40,7 @@ _Monthly Sales Trend_: the sales show a consistent trajectory with manageable fl
 
 _Order Status_: Over 94% of the orders are successfully delivered or processed, showcasing a reliable supply chain.<br><br>
 
-__Strategic Recommendations__ for Sustainability:
+## Strategic Recommendations:
 _US Market Retention_: Implement a loyalty program focused on high-AOV customers in the US to protect the primary revenue stream.
 
 _Emerging Market Expansion_: Increase marketing spend in India and Canada, where they already have a foothold but significant untapped potential.
